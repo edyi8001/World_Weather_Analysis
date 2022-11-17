@@ -20,4 +20,4 @@ The analytical data was retrieved from the API call:
 
 ## Vacation Search / Vacation Itinerary
 Based on the input statements to retrieve customer weather preferences travelers we can identify potential travel destinations and nearby hotels. The following maps displays destinations using pop-up markers on a marker layer-map. Also utilizing Google API we were able to create a route efficient enough for our customer between four cities.
-![alt text]
+![alt text](https://github.com/edyi8001/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
